@@ -10,7 +10,7 @@ public class Dao {
 
    static final String DB_URL = "jdbc:mysql://localhost/cafe";
 
-   //  Database credentials
+   //  Database credentials........
 
    static final String USER = "root";
 
